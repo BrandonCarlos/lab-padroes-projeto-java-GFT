@@ -4,3 +4,5 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 - Singleton
 - Strategy
 - Facade
+
+Muito bacana estudar estes padrões de projeto irei me aprofundar mais daqui para frente ❤️
